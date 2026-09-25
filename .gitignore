@@ -1,0 +1,13 @@
+# Ambientes Virtuais Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do SO
+.DS_Store
+Thumbs.db
